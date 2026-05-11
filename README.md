@@ -1,6 +1,7 @@
 # 🤖 ESP32 Rover — Lab 7
 
-![Sistem Mimarisi](rover_preview.png)
+![Sistem Mimarisi](rover_preview.png),
+![Sistem Mimarisi](preview.png),
 
 ESP32 mikrodenetleyici tabanlı, WiFi üzerinden UDP soketi ile Python CLI'dan kontrol edilen akıllı rover projesi.
 
